@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.2](https://github.com/saikumarmadagoni/release-pls-test/compare/v2.9.1...v2.9.2) (2026-07-01)
+
+
+### Bug Fixes
+
+* release v2 patch ([e9c3fe8](https://github.com/saikumarmadagoni/release-pls-test/commit/e9c3fe8716598c363206eae315cab30e9fcf55c7))
+
 ## [2.9.1](https://github.com/saikumarmadagoni/release-pls-test/compare/v2.9.0...v2.9.1) (2026-07-01)
 
 
