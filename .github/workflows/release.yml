@@ -23,18 +23,10 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate token for release-please
-        uses: actions/create-github-app-token@v1
-        id: release-token
-        with:
-          app-id: 874868
-          private-key: ${{ secrets.RELEASE_PLEASE_PRIVATE_KEY }}
-          owner: "mcd-cloud-foundations-org"
-
       - uses: googleapis/release-please-action@v4.3.0
         id: release
         with:
-          token: ${{ steps.release-token.outputs.token }}
+          token: ${{ vars.token }}
           target-branch: ${{ github.ref_name }}
 
       - uses: actions/checkout@v4
