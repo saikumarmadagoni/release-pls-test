@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/saikumarmadagoni/release-pls-test/compare/v3.0.1...v3.0.2) (2026-07-01)
+
+
+### Bug Fixes
+
+* release patch again ([91d4fb0](https://github.com/saikumarmadagoni/release-pls-test/commit/91d4fb06a30e14d69a49bbae58296be03d37075b))
+
 ## [3.0.1](https://github.com/saikumarmadagoni/release-pls-test/compare/v3.0.0...v3.0.1) (2026-07-01)
 
 
