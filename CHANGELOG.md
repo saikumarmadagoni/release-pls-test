@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/saikumarmadagoni/release-pls-test/compare/v2.9.1...v3.0.0) (2026-07-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* major release
+
+### Features
+
+* major release ([b0433bf](https://github.com/saikumarmadagoni/release-pls-test/commit/b0433bf56dd6d20798647ca31cda98fc33e0fb60))
+
 ## [2.9.1](https://github.com/saikumarmadagoni/release-pls-test/compare/v2.9.0...v2.9.1) (2026-07-01)
 
 
