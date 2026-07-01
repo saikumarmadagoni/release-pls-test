@@ -1,1 +1,1 @@
-"testing feature major 3"
+"testing feature major 3 release patch"
